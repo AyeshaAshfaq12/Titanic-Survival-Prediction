@@ -1,0 +1,17 @@
+# Data files (download from Kaggle)
+train.csv
+test.csv
+gender_submission.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
